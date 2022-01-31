@@ -1,0 +1,8 @@
+.textReset {
+    color: darkblue;
+    text-shadow: cyan 2px 2px 5px;
+}
+
+.textSize {
+    font-size: 1.3rem;
+}
